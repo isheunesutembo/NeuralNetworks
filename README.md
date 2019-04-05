@@ -1,2 +1,2 @@
 # NeuralNetworks
-##Python implementation from scratch using numpy 
+Python implementation from scratch using numpy 
